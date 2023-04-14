@@ -1,7 +1,8 @@
 p{
-    color:#fff;
+    color:aqua;
 }
-body{
- backgound-color: aqua;   
+.header{
+    margin: 15px;
+    background: red;
 }
 
