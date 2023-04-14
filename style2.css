@@ -1,7 +1,9 @@
 p{
     color:aqua;
-    background-color: #000;
 }
 .h1{
     color: crimson;
+}
+.body{
+    background-color: crimson;
 }
